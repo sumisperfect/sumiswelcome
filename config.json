@@ -1,0 +1,13 @@
+{
+  "DEFAULTS": {
+    "AUTHORS": ["828609996936839208"],
+    "ACTIVITY_TEXT": "sum",
+    "GUILD_ID": "834524587227086878",
+    "VOICE_CHANNEL": "834524587844829254",
+    "MIN_STAFF_ROLE": "834524587282268175"
+  },
+  "FILES": {
+    "WELCOME": "https://cdn.glitch.com/7724936a-2a7b-41d3-b66e-960c107c2534%2FSunucumuza_Hosgeldin.mp3?v=1619039070145",
+    "STAFF": "https://cdn.glitch.com/7724936a-2a7b-41d3-b66e-960c107c2534%2FYetkili_odaya_giris_yapt.mp3?v=1619039057754"
+  }
+}
